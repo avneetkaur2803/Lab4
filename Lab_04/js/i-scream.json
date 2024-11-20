@@ -1,0 +1,35 @@
+{
+    "companyName": "Ice Cream Paradise",
+    "headOffice": "Toronto, Canada",
+    "established": 1999,
+    "topFlavors": [
+        {
+            "name": "Chocolate Bliss",
+            "type": "Dairy",
+            "calories": 200,
+            "image": "chocolate-mint.svg",
+            "ingredients": ["Milk", "Cocoa", "Sugar", "Cream"]
+        },
+        {
+            "name": "Mango Dream",
+            "type": "Dairy",
+            "calories": 180,
+            "image": "peach-mango.svg",
+            "ingredients": ["Milk", "Sugar", "Vanilla Extract"]
+        },
+        {
+            "name": "Strawberry Burst",
+            "type": "Fruit",
+            "calories": 150,
+            "image": "ice-cream-xtra1.svg",
+            "ingredients": ["Strawberries", "Sugar", "Water"]
+        },
+        {
+            "name": "Minty Delight",
+            "type": "Dairy",
+            "calories": 170,
+            "image": "ice-cream-xtra2.svg",
+            "ingredients": ["Milk", "Sugar", "Mint Extract", "Chocolate Chips"]
+        }
+    ]
+}
