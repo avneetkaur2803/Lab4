@@ -18,18 +18,19 @@
             "ingredients": ["Milk", "Sugar", "Vanilla Extract"]
         },
         {
-            "name": "Strawberry Burst",
-            "type": "Fruit",
-            "calories": 150,
-            "image": "ice-cream-xtra1.svg",
-            "ingredients": ["Strawberries", "Sugar", "Water"]
-        },
-        {
-            "name": "Minty Delight",
-            "type": "Dairy",
-            "calories": 170,
-            "image": "ice-cream-xtra2.svg",
-            "ingredients": ["Milk", "Sugar", "Mint Extract", "Chocolate Chips"]
-        }
+
+        "name": "Strawberry Burst",
+        "type": "Fruit",
+        "calories": 150,
+        "image": "ice-cream-xtra1.svg",
+        "ingredients": ["Strawberries", "Sugar", "Water"]
+    },
+    {
+        "name": "Minty Delight",
+        "type": "Dairy",
+        "calories": 170,
+        "image": "ice-cream-xtra2.svg",
+        "ingredients": ["Milk", "Sugar", "Mint Extract", "Chocolate Chips"]
+    }
     ]
 }
